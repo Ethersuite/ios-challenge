@@ -31,6 +31,7 @@ Below are some key points that we use to evaluate your solution:
 # How to submit the code challenge
 - **Important:** please DO NOT Fork this project from github
 - The candidate can checkout the project locally and either push it to a newly created repo with public permissions so we can access it. Alternatively...
+- Please attach sample images or video of your result, show us what parts make you feel proud about the demo!
 - you can clone the project and send us the completed project in a zip file.
 
 # Reference links
